@@ -1,1 +1,1 @@
-Hola, este es mi primer archivo en Git
+Hola, este es mi primer archivo en Git. Esta parte fue escrita/editada en Github
